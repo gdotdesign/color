@@ -1,5 +1,7 @@
 require 'color/reqs'
 require 'color/rgb'
+require 'color/rgb/colors'
+require 'color/rgb/metallic'
 require 'color/cmyk'
 require 'color/grayscale'
 require 'color/hsl'

@@ -705,5 +705,3 @@ class << Color::RGB
     end
   end
 end
-
-require 'color/rgb/colors'
