@@ -681,7 +681,7 @@ class << Color::RGB
     rgb.names = names
     rgb.names.each { |n| __by_name[n] = rgb }
     __by_hex[rgb.hex] = rgb
-    rgb.freeze
+    rgb
   end
 
   def __by_hex
